@@ -141,44 +141,6 @@ First-author research achieving **97.94% accuracy** in drowsiness detection — 
 
 ---
 
-## 📊 `05` — GITHUB STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SairamVarma07&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=030014&title_color=00f0ff&text_color=6b7d8d&icon_color=ff00e5&ring_color=00f0ff" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=SairamVarma07&theme=radical&hide_border=true&background=030014&stroke=0a0a2e&ring=00f0ff&fire=ff00e5&currStreakLabel=00f0ff&sideLabels=6b7d8d&currStreakNum=ffffff&sideNums=a0ff00&dates=6b7d8d" width="49%" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairamVarma07&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=030014&title_color=00f0ff&text_color=6b7d8d" width="49%" />
-
-</div>
-
----
-
-## 🏆 `06` — GITHUB TROPHIES
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=SairamVarma07&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-</div>
-
----
-
-## 🐍 `07` — CONTRIBUTION GRAPH
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SairamVarma07/SairamVarma07/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SairamVarma07/SairamVarma07/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SairamVarma07/SairamVarma07/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
----
 
 <div align="center">
 
