@@ -29,12 +29,13 @@
 <tr>
 <td width="100%" valign="top">
 
-### 🚀 Founder & Lead Engineer — **Vytara AI**
-> Built an AI wellness platform serving **200+ global users** using React and Java Spring Boot.
-> Developed a context-aware **24/7 AI assistant** and smart nutrition tracking modules.
+### 🚀 Founder & CTO — **SurfacePlay.app**
+> SurfacePlay is a modern court booking platform for HOAs and Sports Clubs.
+> Our Legacy features include Player Match Making and Intuitive court reservations.
+> Visit surfaceplay.app
 
 ### ⚙️ Software Engineer — **Cliff Tech Inc**
-> Leveraging **TypeScript and Java** to build scalable distributed services and advocating for **automated API governance**.
+> Leveraging **Java, TypeScript and Spark** to build scalable distributed services and advocating for **automated API governance**.
 
 ### 💻 Software Development Engineer — **R2 Technologies**
 > Developed full-stack applications serving **10K+ users**, integrating Python-based ML models to **accelerate product development**.
