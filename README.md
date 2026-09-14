@@ -36,7 +36,7 @@
 ### ⚙️ Software Engineer — **Cliff Tech Inc**
 > Leveraging **TypeScript and Java** to build scalable distributed services and advocating for **automated API governance**.
 
-### 💻 Software Development Engineer — **Cipher Schools**
+### 💻 Software Development Engineer — **R2 Technologies**
 > Developed full-stack applications serving **10K+ users**, integrating Python-based ML models to **accelerate product development**.
 
 </td>
